@@ -26,7 +26,7 @@ function findSpaces(arrName) {//find number of spaces in arrGameName
 	var spaces = 0;
 	for(i=0; i<arrName.length; i++) {
 		if(arrName[i] === " ") {//check if there is a space, if so add 1 to spaces variable
-			spaces += 1 
+			spaces++ 
 		}
 	} 
 	return spaces
