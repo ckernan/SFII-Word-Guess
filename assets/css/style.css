@@ -1,0 +1,69 @@
+
+body {
+	font-family: Verdana, Tahoma;
+	color: #FFFFFF;
+	background: #000000;
+	margin-bottom: 60px;
+}
+
+
+p {
+	font-size: 18px;
+}
+
+.heading {
+	margin-top: 20px;
+}
+
+.heading li img {
+	height: 110px;
+	width: 110px;
+}
+
+#streetfighter {
+	width: 50%;
+}
+
+
+.red {
+	color: red;
+}
+
+.start {
+    color: rgb(0, 238, 255)
+}
+.newgame {
+	margin-bottom: 15px;
+}
+
+li {
+	display: -webkit-inline-box;
+}
+
+li img {
+	height: 30px;
+	width: 40px;
+}
+
+#game {
+	margin-bottom: 30px;
+}
+
+#game li {
+	width: 40px;
+	font-size: 46px;
+	margin: 8px;
+	border-bottom: 2px solid white;
+}
+
+#stats p {
+	margin-bottom: 30px;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 30px;
+}
+
